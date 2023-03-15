@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Nikos, a CS undergrad currently on the 3rd year of my studies.
 
 <!--
 **NikosKont/NikosKont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
