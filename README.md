@@ -9,7 +9,7 @@ My main interests are Data Analysis, Machine Learning and Data Science in genera
 
 <h3 align="center"> <b>I am currently:</b> </h3>
 <p style="font-size:20px;" align="center">
-📖 studying Deep Learning and Pattern Recognition in python <br>
+📖 studying Deep Learning and Pattern Recognition in Python <br>
 👨‍💻 familiarising myself with Data Analysis tools and techniques
 </p>
 
