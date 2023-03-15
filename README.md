@@ -9,7 +9,7 @@ My main interests are data science and machine learning.
 
 <h3 align="center"> <b>I am currently:</b> </h3>
 <p style="font-size:20px;" align="center">
-📚 studying Deep Learning and Pattern Classification <br>
+📚 studying Deep Learning and Pattern Classification in python <br>
 👨‍💻 familiarising myself with data analysis tools and techniques <br>
 </p>
 
