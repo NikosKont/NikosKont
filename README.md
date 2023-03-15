@@ -1,8 +1,8 @@
 <h1 align="center"> whoami🤓 </h1>
 
 <h3 align="center">
-I'm Nikos, a CS undergrad on the 3rd year of my studies. <br>
-My main interests are data analysis, machine learning and data science in general. 
+I'm Nikos, a Computer Science undergrad on the 3rd year of my studies. <br>
+My main interests are Data Analysis, Machine Learning and Data Science in general. 
 </h3>
 
 <br>
@@ -10,9 +10,8 @@ My main interests are data analysis, machine learning and data science in genera
 <h3 align="center"> <b>I am currently:</b> </h3>
 <p style="font-size:20px;" align="center">
 📖 studying Deep Learning and Pattern Recognition in python <br>
-👨‍💻 familiarising myself with data analysis tools and techniques <br>
+👨‍💻 familiarising myself with Data Analysis tools and techniques
 </p>
-
 
 <br>
 
