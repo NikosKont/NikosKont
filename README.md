@@ -1,7 +1,7 @@
 <h1 align="center"> whoami🤓 </h1>
 
 <h3 align="center">
-I'm Nikos, a CS undergrad currently on the 3rd year of my studies. <br>
+I'm Nikos, a CS undergrad on the 3rd year of my studies. <br>
 My main interests are data science and machine learning. 
 </h3>
 
