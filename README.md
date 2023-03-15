@@ -2,7 +2,7 @@
 
 <h3 align="center">
 I'm Nikos, a CS undergrad on the 3rd year of my studies. <br>
-My main interests are data science and machine learning. 
+My main interests are data analysis, machine learning and data science in general. 
 </h3>
 
 <br>
