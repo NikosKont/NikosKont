@@ -3,7 +3,7 @@
 <h3 align="center">
     I'm Nikos, a 4th year undergraduate student of Computer Science at the University of Crete, Greece. <br>
     My main interests are Machine Learning and Data Science in general and Deep Learning in particular, <br>
-    including their mathematical foundations and their various applications, especially those in Sports Analytics.
+    including their mathematical foundations and various applications.
 </h3>
 
 <br>
