@@ -10,7 +10,7 @@
 
 <h3 align="center"><b> I am currently: </b></h3>
 <p style="font-size:20px;" align="center">
-    📖 expanding my Deep Learning knowledge to Deep Generative Models
+    📖 expanding my Deep Learning knowledge to Deep Generative Models <br>
     👨‍💻 learning and applying Optimization methods
 </p>
 
