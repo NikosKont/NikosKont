@@ -1,9 +1,10 @@
 <h1 align="center"> whoami🤓 </h1>
 
-<h3 align="center">
-    I'm Nikos, currently an exchange M2 student <br>at the Mathematics Department of Sorbonne University. <br>
-    I am enthusiastic about machine learning in general,<br>and its intersection with applied mathematics and biomedicine. <br>
-</h3>
+<p align="center">
+Hi👋 I'm Nikos, currently an exchange M2 student at the Mathematics Department of Sorbonne University.<br>
+I have a great passion for machine learning in general, and its intersection with optimization, statistics, and biomedicine.<br>
+I love exploring the mathematical foundations of topics throughout these areas, and I also certainly enjoy writing code, whether related to these fields or not.
+</p>
 
 <br>
 
