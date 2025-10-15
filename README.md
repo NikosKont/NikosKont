@@ -1,9 +1,8 @@
 <h1 align="center"> whoami🤓 </h1>
 
 <p align="center">
-Hi👋 I'm Nikos, currently an exchange M2 student at the Mathematics Department of Sorbonne University.<br>
+Hi👋 I'm Nikos, currently an Intern at the Max Planck Institute for Intelligent Systems.<br>
 I have a great passion for machine learning in general, and its intersection with optimization, statistics, and biomedicine.<br>
-I love exploring the mathematical foundations of topics throughout these areas, and I also certainly enjoy writing code, whether related to these fields or not.
 </p>
 
 <br>
