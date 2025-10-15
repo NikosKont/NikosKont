@@ -5,9 +5,7 @@ Hi👋 I'm Nikos, currently an Intern at the Max Planck Institute for Intelligen
 I have a great passion for machine learning in general, and its intersection with optimization, statistics, and biomedicine.<br>
 </p>
 
-<br>
-
-<h3 align="center"> How to reach me: </h3>
+<h4 align="center"> How to reach me: </h4>
 <p align="center">
  <a href="mailto:nikoskontogeorgis.nk@gmail.com" target="_blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28at%29.svg/1280px-%28at%29.svg.png" height="45" width="45" /> </a>
