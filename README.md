@@ -5,7 +5,7 @@ Hi👋 I'm Nikos, currently an Intern at the Max Planck Institute for Intelligen
 I have a great passion for machine learning in general, and its intersection with optimization, statistics, and biomedicine.<br>
 </p>
 
-<br>
+<!-- <br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -23,7 +23,7 @@ I have a great passion for machine learning in general, and its intersection wit
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
-</p>
+</p> -->
 
 <br>
 
